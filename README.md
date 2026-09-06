@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Almeyda Quispe Walter Hernán (U23200806)
-- 
+- Zavaleta Pascual Meyder Smit (U24236061)
 
 ## Descripción del Proyecto
 Aplicación para registrar y consultar pedidos de clientes.
