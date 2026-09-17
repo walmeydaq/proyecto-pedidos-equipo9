@@ -4,14 +4,14 @@
 const cliente = {
     nombre: "Nicole Lopez",
     correo: "nicole@gmail.com",
-    estado: "Activo"
+    estado: "Inactivo"
 };
 
 const ClienteModelo = require("./clienteModelo");
 
 // Lista de clientes registrados
 const clientes = [
-    new ClienteModelo("Nicole Lopez", "nicole@gmail.com", "Activo")
+    new ClienteModelo("Nicole Lopez", "nicole@gmail.com", "Inactivo")
 ];
 
 // Insertar un nuevo cliente
