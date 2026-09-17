@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Almeyda Quispe Walter Hernán (U23200806)
-- 
+- Jaquelin Aurelia Gutierrez Orihuela (U21232979)
 
 ## Descripción del Proyecto
 Aplicación para registrar y consultar pedidos de clientes.
