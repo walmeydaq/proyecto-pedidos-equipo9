@@ -22,5 +22,5 @@ Aplicación para registrar y consultar pedidos de clientes.
 - CSS
 - MYSQL
 
-
-//prueba de coflicto nicole Lopez
+## CONFLICTO CONTROLADO
+//prueba de coflicto numero 1
