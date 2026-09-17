@@ -20,3 +20,8 @@ Aplicación para registrar y consultar pedidos de clientes.
 - HTML5
 - CSS
 - MYSQL
+
+
+
+// PRUEBA DE CONFLICTO CONTROLADO 
+// CARGANDO INFORMACION EN EL ARCHIVO README
