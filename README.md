@@ -4,7 +4,7 @@
 - Almeyda Quispe Walter Hernán (U23200806)
 - Jaquelin Aurelia Gutierrez Orihuela (U21232979)
 - Zavaleta Pascual Meyder Smit (U24236061)
-
+- Kevin Chipana Choccña (U22324446)
 ## Descripción del Proyecto
 Aplicación para registrar y consultar pedidos de clientes.
 
@@ -12,7 +12,7 @@ Aplicación para registrar y consultar pedidos de clientes.
 - Módulo de clientes (registro y listado)
 - Módulo de productos (registro y listado)
 - Módulo de pedidos (registro y consulta)
-
+- Módulo de productos (consulta y filtrado por categoría)
 ## Tecnologías Utilizadas
 - Git y GitHub para control de versiones
 - JavaScript / Pythons
