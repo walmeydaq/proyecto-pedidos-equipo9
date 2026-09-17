@@ -19,6 +19,7 @@ Aplicación para registrar y consultar pedidos de clientes.
 - Módulo de pedidos (registro y consulta)
 - Validación de datos de los pedidos
 - Módulo de clientes (consulta y filtrado por estado)
+- Módulo de productos (consulta y filtrado por categoría)
 
 ## Tecnologías Utilizadas
 
