@@ -5,6 +5,7 @@
 - Zavaleta Pascual Meyder Smit (U24236061)
 - Chipana Choccña Kevin (U22324446)
 - Jaquelin Gutierrez Orihuela (U21232979)
+- Nicole Lisset Lopez Huamani (U24222311)
 
 ## Descripción del Proyecto
 Aplicación para registrar y consultar pedidos de clientes.
