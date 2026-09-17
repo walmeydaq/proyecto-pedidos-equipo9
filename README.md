@@ -4,6 +4,7 @@
 - Almeyda Quispe Walter Hernán (U23200806)
 - Jaquelin Aurelia Gutierrez Orihuela (U21232979)
 - Nicole Lisset Lopez Huamani (U24222311)
+-Meyder Smit Zavaleta Pascual (U24236061)
 
 ## Descripción del Proyecto
 Aplicación para registrar y consultar pedidos de clientes.
